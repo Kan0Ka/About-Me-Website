@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(0, 0, 0, 1));
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+h1 {
+    color:black;
+    font-familiy: Georgia;
+    font-size: 300%;
+}
+h2 {
+    color: black;
+    font-familiy: sans-serif;
+    font-size: 150%;
+}
