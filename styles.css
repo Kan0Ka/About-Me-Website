@@ -11,17 +11,8 @@ body {
     text-align: center;
     padding: 10px;
 }
-.boxed-div {
-    border: 5px solid black;
-    padding: 5px;
-  }
 h1 {
     color:black;
     font-familiy: Georgia;
-    font-size: 300%;
-}
-h2 {
-    color: black;
-    font-familiy: sans-serif;
-    font-size: 150%;
+    font-size: 500%;
 }
